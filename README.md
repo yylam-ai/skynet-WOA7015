@@ -1,3 +1,3 @@
 # skynet-WOA7015
-Project Title: Pneumonia Classification with GAN Augmentation
+Project Title: Pneumonia Classification with GAN Augmentation <br>
 Team: Skynet
